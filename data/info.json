@@ -47,11 +47,11 @@
 
     ],
     "names": {
-        "1": "Topic 001",
+        "1": "Parliamentary Petitions",
         "2": "Topic 002",
         "3": "Topic 003",
-        "4": "Topic 004",
-        "5": "Topic 005",
+        "4": "Foreign Policy 1",
+        "5": "Foreign Policy 2",
         "6": "Topic 006",
         "7": "Topic 007",
         "8": "Topic 008",
@@ -60,9 +60,9 @@
         "11": "Topic 011",
         "12": "Topic 012",
         "13": "Topic 013",
-        "14": "Topic 014",
-        "15": "Topic 015",
-        "16": "Topic 016",
+        "14": "Royal Kings",
+        "15": "Defense",
+        "16": "Colonialism",
         "17": "Topic 017",
         "18": "Topic 018",
         "19": "Topic 019",
@@ -70,7 +70,7 @@
         "21": "Topic 021",
         "22": "Topic 022",
         "23": "Topic 023",
-        "24": "Topic 024",
+        "24": "Catholic Church",
         "25": "Topic 025"
     }
 }
